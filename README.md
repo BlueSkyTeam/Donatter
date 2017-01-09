@@ -1,2 +1,2 @@
-# Donatter
-Donatterのバイナリ。
+﻿# Donatter
+Donatterのバイナリ。これが実行ファイルです。そんなにしょっちゅうはアップロードしません。
